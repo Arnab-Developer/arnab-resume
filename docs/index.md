@@ -52,7 +52,7 @@ I am Arnab Roy Chowdhury. I am a software developer and trainer.
 - C#
 - SQL Server
 - Azure
-- Terraform
+- Terraform with Azure and AWS
 - CI/CD with GitHub Actions and Azure Pipelines
 
 ## Certifications
